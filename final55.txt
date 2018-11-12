@@ -1,0 +1,55 @@
+solid;books;50
+liquid;milk;100
+liquid;water;80
+solid;wooden logs;100
+animal;cats;20
+solid;coal;50
+solid;coal;50
+solid;coal;100
+animal;fish;50
+animal;tigers;2
+liquid;orange juice;50
+liquid;coffee;80
+liquid;milk;50
+solid;tree trunks;90
+liquid;orange juice;30
+solid;iron;60
+animal;giraffes;50
+animal;ducks;100
+solid;paper;50
+liquid;tea;100
+liquid;salt water;100
+liquid;soup;50
+solid;coal;100
+solid;fabric;80
+solid;pencils;90
+solid;wood slabs;90
+solid;airplanes;100
+animal;monkeys;70
+liquids;soap;60
+solid;speakers;30
+liquid;glue;100
+liquid;salt water;50
+solid;pepper;40
+solid;napkins;80
+solid;cardboard;50
+solid;computers;70
+solid;canned food;100
+animal;turkeys;70
+animal;cows;30
+animal;chickens;50
+animal;goats;100
+solid;wool;80
+solid;steaks;20
+solid;laptops;60
+solid;potatos;50
+solid;toys;100
+solid;stuffed animals;50
+solid;apples;70
+solid;shoes;80
+solid;socks;50
+animal;pandas;60
+animal;gorillas;100
+solid;matresses;80
+liquid;apple juice;70
+liquid;beer;100
